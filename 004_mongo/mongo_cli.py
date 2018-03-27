@@ -4,7 +4,6 @@ import csv
 
 
 client = pymongo.MongoClient(host='127.0.0.1',port=27017)
-# client = pymongo.MongoClient('mongodb://work:cxgc_2018@10.18.103.154:27017')
 
 db1 = client.HuBei
 
