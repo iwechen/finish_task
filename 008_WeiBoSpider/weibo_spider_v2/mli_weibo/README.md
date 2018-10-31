@@ -3,8 +3,8 @@
 
 > * 文件结构说明
 +-- config
-|   +-- Config.py            # 标书解析规则文件
-|   +-- clean.py             # 标书清洗文件
+|   +-- Config.py
+|   +-- clean.py
 +-- parse_gov_zb
 |   +-- lenovo_related.py
 
@@ -19,6 +19,7 @@
 | ...        |    ...    |  ...  |
 
 > * 中标字段说明
+
 | 字段       | 类型     |  说明   |
 | --------   | -----:  | :----:  |
 | status     | str |   状态     |
